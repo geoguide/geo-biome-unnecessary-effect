@@ -1,0 +1,21 @@
+{
+  "name": "@geoguide/biome-unnecessary-effect",
+  "version": "0.1.0",
+  "description": "Biome Grit rules to catch unnecessary or problematic React effects.",
+  "license": "MIT",
+  "files": [
+    "grit",
+    "README.md"
+  ],
+  "keywords": [
+    "biome",
+    "grit",
+    "linter",
+    "react",
+    "useEffect"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geoguide/biome-unnecessary-effect.git"
+  }
+}
